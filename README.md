@@ -17,7 +17,6 @@ Sample Input Data - dataInput
 2013-05-01 2 3
 2013-05-08 8 1
 
-
 Arguments to be passed [for example]
 =====================================
 args[0]=/home/user/dataInput
