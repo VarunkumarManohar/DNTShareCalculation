@@ -12,8 +12,8 @@ The tool needs the location of the data file and the year of calculation to be p
 Sample Input Data - dataInput
 =============================
 
-2013-04-01 3 4
-2013-04-02 3 4
+2013-04-01 3 4\n
+2013-04-02 3 4\n
 2013-05-01 2 3
 2013-05-08 8 1
 
