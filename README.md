@@ -24,8 +24,11 @@ Sample Input Data - dataInput
 Arguments to be passed [for example]
 =====================================
 Two arguments- One is the file name and the other is the year value
+
 args[0]=/home/user/dataInput
+
 args[1]=2013
+
 
 
 SampleOuput
