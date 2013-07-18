@@ -23,6 +23,7 @@ Sample Input Data - dataInput
 
 Arguments to be passed [for example]
 =====================================
+Two arguments- One is the file name and the other is the year value
 args[0]=/home/user/dataInput
 args[1]=2013
 
@@ -31,28 +32,52 @@ SampleOuput
 ===============
 DNTSHARECALCULATION
 ######DESKTOP JSON####### {
+
   "GLOBAL": [
+  
     {
+    
       "date": "year-05-01",
+      
       "percentage": 0.3225806451612903
+      
     },
+    
     {
+    
       "date": "year-04-01",
+      
       "percentage": 0.2
+      
     }
+    
   ]
+  
 }
 ######FENNEC JSON#######{
+
   "GLOBAL": [
+  
     {
+    
       "date": "year-05-01",
+      
       "percentage": 0.12903225806451613
-    },
-    {
-      "date": "year-04-01",
-      "percentage": 0.26666666666666666
+      
     }
+    ,
+    
+    {
+    
+      "date": "year-04-01",
+      
+      "percentage": 0.26666666666666666
+      
+    }
+    
   ]
+  
 }
+
 
 
